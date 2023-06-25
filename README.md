@@ -1,4 +1,4 @@
-# Overthewire_keys
+# Overthewire_Bandit-flags
 
 Keys for over the wire
 
